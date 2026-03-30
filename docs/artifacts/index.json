@@ -56,5 +56,31 @@
         "body": "Ship onboarding v2, add in-product milestone hints, and publish a customer-facing changelog update."
       }
     ]
+  },
+  {
+    "slug": "weekly-status-2026-03-30",
+    "title": "Weekly Status — 2026-03-30",
+    "summary": "Weekly delivery summary with wins, risks, and next steps.",
+    "template": "report",
+    "updated": "2026-03-30",
+    "author": "Chad Michael Michaels",
+    "sections": [
+      {
+        "heading": "Outcome",
+        "body": "Summarize the artifact outcome here."
+      },
+      {
+        "heading": "Details",
+        "bullets": [
+          "Key point 1",
+          "Key point 2",
+          "Key point 3"
+        ]
+      },
+      {
+        "heading": "Next actions",
+        "body": "Describe follow-up actions."
+      }
+    ]
   }
 ]
