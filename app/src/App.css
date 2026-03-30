@@ -114,6 +114,18 @@ code {
   color: var(--muted);
 }
 
+.artifact-link {
+  display: inline-block;
+  margin-top: 12px;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.artifact-link:hover {
+  text-decoration: underline;
+}
+
 .meta {
   margin-top: 12px;
   font-size: 12px;

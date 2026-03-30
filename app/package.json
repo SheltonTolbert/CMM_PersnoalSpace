@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "generate:artifacts": "node scripts/generate-artifacts.mjs",
+    "build": "npm run generate:artifacts && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "export:pages": "npm run build && rm -rf ../docs/* && cp -r dist/* ../docs/"

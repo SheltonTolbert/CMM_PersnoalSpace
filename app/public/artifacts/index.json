@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "design-system-notes",
+    "title": "Design System Notes",
+    "summary": "One-pager artifact for documenting token and component decisions.",
+    "template": "one-pager",
+    "updated": "2026-03-30",
+    "author": "Chad Michael Michaels",
+    "sections": [
+      {
+        "heading": "Token baseline",
+        "body": "Use a dark-first palette with high contrast text, consistent spacing scale, and rounded card surfaces."
+      },
+      {
+        "heading": "Component set",
+        "bullets": [
+          "PageShell",
+          "Hero",
+          "Card",
+          "Section",
+          "ArtifactGrid"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "q2-launch-readout",
+    "title": "Q2 Launch Readout",
+    "summary": "Executive report template with outcomes, metrics, decisions, and next actions.",
+    "template": "report",
+    "updated": "2026-03-30",
+    "author": "Chad Michael Michaels",
+    "sections": [
+      {
+        "heading": "Outcome",
+        "body": "Q2 launch achieved strong early adoption with stable performance and positive qualitative feedback from pilot users."
+      },
+      {
+        "heading": "Key metrics",
+        "bullets": [
+          "Activation rate: 41% (+9% vs baseline)",
+          "7-day retention: 68%",
+          "Support tickets per 1k users: 3.2"
+        ]
+      },
+      {
+        "heading": "Decisions",
+        "bullets": [
+          "Prioritize onboarding simplification in next sprint",
+          "Keep pricing unchanged through next review window",
+          "Expand pilot to two additional customer segments"
+        ]
+      },
+      {
+        "heading": "Next actions",
+        "body": "Ship onboarding v2, add in-product milestone hints, and publish a customer-facing changelog update."
+      }
+    ]
+  }
+]

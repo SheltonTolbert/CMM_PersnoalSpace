@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react'
 import './App.css'
 
 type Artifact = {
@@ -7,30 +8,6 @@ type Artifact = {
   template: 'landing' | 'report' | 'timeline' | 'showcase' | 'one-pager'
   updated: string
 }
-
-const artifacts: Artifact[] = [
-  {
-    slug: 'launch-brief-v1',
-    title: 'Launch Brief v1',
-    summary: 'A concise one-pager for a product launch narrative and key metrics.',
-    template: 'one-pager',
-    updated: '2026-03-30'
-  },
-  {
-    slug: 'project-timeline-sample',
-    title: 'Project Timeline Sample',
-    summary: 'Milestones and dependencies presented in a structured timeline layout.',
-    template: 'timeline',
-    updated: '2026-03-30'
-  },
-  {
-    slug: 'artifact-showcase',
-    title: 'Artifact Showcase',
-    summary: 'Gallery-style page for demos, visuals, and experiments.',
-    template: 'showcase',
-    updated: '2026-03-30'
-  }
-]
 
 const tokens = [
   ['--bg', '#0b1020'],
@@ -45,14 +22,23 @@ const tokens = [
 ]
 
 function App() {
+  const [artifacts, setArtifacts] = useState<Artifact[]>([])
+
+  useEffect(() => {
+    fetch('./artifacts/index.json')
+      .then((r) => r.json())
+      .then((data) => setArtifacts(Array.isArray(data) ? data : []))
+      .catch(() => setArtifacts([]))
+  }, [])
+
   return (
     <main className="page-shell">
       <header className="hero section card">
         <p className="eyebrow">CMM Personal Space</p>
         <h1>Artifact Framework v1</h1>
         <p>
-          A consistent UI system for publishing visual artifacts — no chat layer, just reusable
-          structure, templates, and styling guardrails.
+          A consistent UI system for publishing visual artifacts — reusable structure, templates,
+          and style guardrails.
         </p>
       </header>
 
@@ -78,14 +64,14 @@ function App() {
             <li>Showcase</li>
             <li>One-pager</li>
           </ul>
-          <p className="muted">Use these to keep every artifact visually coherent.</p>
+          <p className="muted">Generate from JSON, publish to /artifacts/{'{slug}'}/.</p>
         </article>
       </section>
 
       <section className="section card">
         <div className="row-between">
           <h2>Artifact index</h2>
-          <span className="badge">/artifacts/{'{slug}'}</span>
+          <span className="badge">/artifacts/{'{slug}'}/</span>
         </div>
         <div className="artifact-grid">
           {artifacts.map((a) => (
@@ -96,6 +82,9 @@ function App() {
                 <span>{a.template}</span>
                 <span>{a.updated}</span>
               </div>
+              <a className="artifact-link" href={`./artifacts/${a.slug}/`}>
+                Open artifact →
+              </a>
             </article>
           ))}
         </div>
