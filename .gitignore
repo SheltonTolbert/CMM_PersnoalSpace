@@ -1,0 +1,8 @@
+# Node / build
+app/node_modules/
+app/dist/
+
+# OS/editor
+.DS_Store
+*.swp
+*~
