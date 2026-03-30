@@ -11,8 +11,6 @@
     "export:pages": "npm run build && rm -rf ../docs/* && cp -r dist/* ../docs/"
   },
   "dependencies": {
-    "@copilotkit/react-core": "^1.54.1",
-    "@copilotkit/react-ui": "^1.54.1",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
