@@ -1,0 +1,8 @@
+{
+  "status": "ready",
+  "sha256": {
+    "index.html": "dc781f96538bf0ac60fb56ae18f53f96f2f89bb5b71939af63068bdde224eebd",
+    "brief-podcast.mp3": "522a55db81eef80a611ebc26f7317a4a53c37fbf6c1ec62c245990dac7c4f55c"
+  },
+  "notes": "temporary repaired artifact; full deterministic regeneration pending"
+}
