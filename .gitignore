@@ -6,3 +6,6 @@ app/dist/
 .DS_Store
 *.swp
 *~
+
+# Staged/generated daily brief artifacts
+/tmp/
