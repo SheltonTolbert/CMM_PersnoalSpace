@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sheltontolbert.github.io/schemas/daily-brief-v1.json",
+  "title": "Daily Brief Payload v1",
+  "type": "object",
+  "required": [
+    "date",
+    "location",
+    "weather",
+    "sections",
+    "guitarExercise",
+    "codingPrompt",
+    "quote",
+    "audio"
+  ],
+  "properties": {
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "location": { "type": "string", "minLength": 2 },
+    "weather": { "type": "string", "minLength": 20 },
+    "sections": {
+      "type": "object",
+      "required": ["local", "national", "global", "tech"],
+      "properties": {
+        "local": { "$ref": "#/$defs/storyList" },
+        "national": { "$ref": "#/$defs/storyList" },
+        "global": { "$ref": "#/$defs/storyList" },
+        "tech": { "$ref": "#/$defs/storyList" }
+      },
+      "additionalProperties": false
+    },
+    "guitarExercise": { "type": "string", "minLength": 20 },
+    "codingPrompt": { "type": "string", "minLength": 20 },
+    "quote": {
+      "type": "object",
+      "required": ["text", "author"],
+      "properties": {
+        "text": { "type": "string", "minLength": 5 },
+        "author": { "type": "string", "minLength": 2 }
+      },
+      "additionalProperties": false
+    },
+    "audio": {
+      "type": "object",
+      "required": ["src", "maxMinutes"],
+      "properties": {
+        "src": { "type": "string", "pattern": "^\\./brief-podcast\\.mp3$" },
+        "maxMinutes": { "type": "number", "maximum": 6 }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "storyList": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["title", "url", "source"],
+        "properties": {
+          "title": { "type": "string", "minLength": 5 },
+          "url": { "type": "string", "format": "uri" },
+          "source": { "type": "string", "minLength": 2 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

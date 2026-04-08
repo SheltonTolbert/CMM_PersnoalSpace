@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
+import { DailyBriefLoader } from './brief/DailyBrief'
 
 type Artifact = {
   slug: string
@@ -23,6 +24,8 @@ const tokens = [
 
 function App() {
   const [artifacts, setArtifacts] = useState<Artifact[]>([])
+  const params = new URLSearchParams(window.location.search)
+  const briefPath = params.get('brief')
 
   useEffect(() => {
     fetch('./artifacts/index.json')
@@ -30,6 +33,10 @@ function App() {
       .then((data) => setArtifacts(Array.isArray(data) ? data : []))
       .catch(() => setArtifacts([]))
   }, [])
+
+  if (briefPath) {
+    return <DailyBriefLoader path={briefPath} />
+  }
 
   return (
     <main className="page-shell">
