@@ -14,3 +14,7 @@ Current policy:
 
 Validation target:
 - Both `legacy` and `react` hard-gate passes on staged brief artifacts.
+
+Runtime rule:
+- Prefer invoking scripts from `CMM_PersnoalSpace/automation/brief/`.
+- Legacy `workspace/automation/brief/` copies are treated as mirror-only during transition and must remain byte-identical.
