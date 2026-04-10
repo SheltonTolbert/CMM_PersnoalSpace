@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import argparse
 import html
+import json
 import pathlib
 
 TEMPLATE = """<!doctype html>
@@ -10,10 +11,25 @@ TEMPLATE = """<!doctype html>
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
   <title>Daily Brief - {date}</title>
   <meta http-equiv=\"refresh\" content=\"0; url={app_url}\" />
+  <style>
+    :root {{ color-scheme: dark; }}
+    body {{ margin: 0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background: #0b1020; color: #eaf0ff; }}
+    main {{ min-height: 100vh; display: grid; place-items: center; padding: 24px; }}
+    .card {{ background: #121a31; border: 1px solid #28375f; border-radius: 14px; max-width: 680px; width: 100%; padding: 20px; }}
+    h1 {{ margin: 0 0 10px; font-size: 1.25rem; }}
+    p {{ margin: 8px 0; color: #c8d6ff; }}
+    a {{ color: #9cc1ff; }}
+  </style>
+  <script>window.location.replace({app_url_json});</script>
 </head>
 <body>
-  <p>Redirecting to the Daily Brief renderer…</p>
-  <p>If it does not open automatically, <a href=\"{app_url}\">open today\'s brief</a>.</p>
+  <main>
+    <section class=\"card\">
+      <h1>Opening today\'s Daily Brief…</h1>
+      <p>You\'ll be redirected automatically.</p>
+      <p>If needed, <a href=\"{app_url}\">open the brief manually</a>.</p>
+    </section>
+  </main>
 </body>
 </html>
 """
@@ -31,7 +47,14 @@ def main():
 
     app_url = f"{args.app_base}?brief=/CMM_PersnoalSpace/daily-briefs/{args.date}/brief.json"
     out = stage / 'index.html'
-    out.write_text(TEMPLATE.format(date=html.escape(args.date), app_url=html.escape(app_url)), encoding='utf-8')
+    out.write_text(
+        TEMPLATE.format(
+            date=html.escape(args.date),
+            app_url=html.escape(app_url),
+            app_url_json=json.dumps(app_url),
+        ),
+        encoding='utf-8',
+    )
     print(f'Wrote {out}')
 
 
