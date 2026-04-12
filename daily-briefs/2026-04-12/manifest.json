@@ -1,0 +1,8 @@
+{
+  "status": "ready",
+  "generatedAt": "2026-04-12T07:00:00-07:00",
+  "sha256": {
+    "index.html": "58eb2a2bb00bb4d3d187fc30541bd13173d1e6650e6243f876132c4f86eb8197",
+    "brief-podcast.mp3": "cb54dae6d3d5c41a994dc189e93d52fb65c4a8c483436c4b5044fd476c49485e"
+  }
+}
