@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-14",
+  "location": "Reno, NV",
+  "weather": "Reno, NV: Partly cloudy, cool morning, mild afternoon, breezy with low rain chance.",
+  "sections": {
+    "local": [
+      {
+        "title": "Nevada earthquake now measured at 5.68 magnitude, see the latest - Reno Gazette Journal",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNck9tcG9hcVRKWGpGMUtxLWd0WGNwblg0M1dGWnR3S2dnRWZiMXUtNU1FX1RiM3YyQUZkY21NTm8yWi1lYXk5UFBfbEZOZWlZdVlROWxpU2lYVS10VWtYV3FoQTE3VEE1alI2a2VnYVFYbGVmVlBsVnBTWUtSS0I3MVhoWkpLalhqM3hpVjV3ZXgwWnpjQkpnc3BwcEVtOGQxdGVnbzdB?oc=5",
+        "source": "Reno Gazette Journal"
+      },
+      {
+        "title": "Magnitude 5.7 earthquake strikes northern Nevada - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXVydVRqNHhjLTRTeWlGRFpwTk5zT2kwSFBkTTRxM2xjOVJ5Vktla20waUR5TUlBdkVaYXB0bVhGSnRvMEMwVmxJeXhCMV92U21ZeDVrUUM4Zmtzb0c2czJPUE5NUUUwcDlQNm1ybUF4b2J4cllWQ0h5RDVqRzFyeGE5SkF3ZWpjR21jMHFXbWdpeUpva1JLV1liajFYRllaZGZkeDg1dFZTUQ?oc=5",
+        "source": "USA Today"
+      },
+      {
+        "title": "5.7-magnitude earthquake hits northern Nevada, less than 50 miles from Reno - FOX5 Vegas",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUdfc1Q3cF9WQm9mYUZ4bHhCMDlmeDNiZ1hkUXpRMkR6R2ozUWhyNml0MkpHTnlENV8tQ2o3TTlMOE1LNHV1M3puTVdrajR4VElabWgtZXJwNDdudm4xeHdlcGVQM0NsWmZvdXIzNi1RZVI1OTZDUjZpZ2ZSQjl5X0tWQV9YclpHOExLQ2dmMEphNjlBWGVDRk83ZkhveFZoUFpYSEpRUkZqQdIBvgFBVV95cUxNVTVKeXY2NWdMeWZORVBJbzh3VWp0MmN5NEpoMkktd1QtN1lPTnZCdll2RERIWjZxSDJ6Wk5OWkZmN0Zzb0hLQkVMTV9ZdFY5VkgzQmJJWVJkN254QXFLMDZJT2ZxNi1qUEpzRXVJX0hrOWhSSVIzemtobGdRTmdMRFpxV1NSOV83WEZkTy03bFRxR0JYd3lwdVo4VWtLUWk2VGRkZWVoRmFVVHVRczBKUDZwdm41V0l6cERLcC1B?oc=5",
+        "source": "FOX5 Vegas"
+      }
+    ],
+    "national": [
+      {
+        "title": "2 Swalwell accusers discuss his downfall and the fear of coming forward: \"He thought he was untouchable\" - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXdLWmdoMUJjc2c5Q1JMR0lWNmozX1I5RGw2dF9FTEg3Q1RNN29ZNF9vYzlpWndLSUZXTjZsS0E4Rmw2OXFHRk9Jam14R1NMRy1FTXNmQzJrNUZaRkhFaDhzakpYV29JZWdmMnE1WWJRbF94MjFwalRQS3NoMTVzand6MGVmbUVLV21vN204Yk5LNk5HXzViUnhhRDg4QdIBowFBVV95cUxPLTA0T2NZa2dHV1ZkVGs0TG1Od1c2S1A5ckptVXJHUU1GLWc4NGhzTDFMZTFqd29RVlRZWU4wd2FZaDBNdkNnNHhnZk1kcFdSd25uU005eWxmNkh1UU54QW5xWl9XX3FCLVowMnU0dk5OakNqbnMza01QSzBFQ2dpMER4b0liN0l2T0ppa3pVd0hRMTV3MzFFSHFVQVBSZVRvcnRN?oc=5",
+        "source": "CBS News"
+      },
+      {
+        "title": "Bahamas police release Michigan man questioned after wife disappeared from their boat - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dwMUtsYkNHeWxvVzlXYk55cElubngxc1h5VG9jWVFsUjZfbWUxVHAwN1FKcnB3MG5LT3VaaC14SGpjaU95V0FPTEZMNVY4SEN1Mm9pWTBkUjZqa1lRSmpsTjczb080dmlpbUowNmJqR2ctNGxJenA2djZnR1FObnpoY19CVFZkaXQ0NlVyN0pwNEo5S0JqLVprbElBX2JtdWc?oc=5",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Efforts underway for second round of US-Iran talks as ships reported transiting Strait of Hormuz - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGF4UVRuVk1TZGoyV202ZkpPSFp4MldhZFJKYk5MY0R5dW80UTU3V0wtWW1ORGUtNW1MODlfeTZIWTgzZ3VUdTV6QUJJTmVjdVQ1dHJvOTlaN0dva2VlYlVUdnptTGl3cVFyY2VpTDZzajZxZURRb0RPUXVuSm94SmNMQ3NCdC12eWZ5em44dWlZakppN3dCSXdHQlRuMFluSzVKT194eXlLV3lTQ05MS3FlWQ?oc=5",
+        "source": "AP News"
+      }
+    ],
+    "global": [
+      {
+        "title": "Hezbollah official says the group won't abide by any agreements from Lebanon-Israel talks in the US - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzRhWlpnVHpjMy1OTGZ4YWlIczZwcnRYWkxfZ1o0azlIRUhBaktZd0pseDNlUkVIclJfajVydjNnam9wa0ZOaE1FOEZBT0RQMk9UY003ZFhvVDR1MXdvX0pyWm1DRml4U0w0X2Ntd0EyTVZDcnVOMmhORjRoZl92UVJDZDF1VzdLWU90Q0RReU9MNzc2cWotT1czdw?oc=5",
+        "source": "AP News"
+      },
+      {
+        "title": "Serbia's Aleksandar Vu\u010di\u0107 clashes with P\u00e9ter Magyar over Putin 'godfather' remark - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVG1UbWJxX0pubzZtZW53NlhfcHhvZk5WZkk4bzg2LV9FZDdtR3d4S3JmaGxfYllqOW1IRWE0QXZuMlVnMDlKeWVVM2J3M0NDNkxjVUNiZWhobnNNU3FuWW91S0xvckNHVDBCbjdES1IwdUt6ZGpnSVg5SVlCX1pybklnTWZKMEpjUlRKdlJScVVZcnVReFNVYzVQMFVFUFc1OXpJVUJhdEwtdDFKYVg1ZmFxTzM0Q0JzMWtZc21Lcl83UQ?oc=5",
+        "source": "Euronews.com"
+      },
+      {
+        "title": "Gunman opens fire at high school in Turkey, wounding at least 16 - CNN",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81Q09IYmJUMnlMSXVhYWFMeFQ0UHViS1VQTVdKcXNoTHFITGdGbEVDakJRV0Y0enpDVUZIQ05fRlBmdTRFUFp0U2FNWm1ScTJEZlFrVjRBc2lkdkttLTEzbGx0NkMwa3VKYkQ5dms3UjNhRjQ?oc=5",
+        "source": "CNN"
+      }
+    ],
+    "tech": [
+      {
+        "title": "iPhone Fold Production Pushed Back, But Fall 2026 Launch Still on Track - MacRumors",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDRmlnTW9GbGRBMDM4QndSZHpiMXpOTnQtd2NnR08yZC1CTEtvMElCaTdnT1ZXTURkQ3Z5dTVEZUhlMlQ1alBubE96OGtrdEw0U2ZPOU5CSWR0Sl9KR3lSV3ZRVEJjWmlLZDhRLWRBd2t0Qnl0b0w1bVZXbkY?oc=5",
+        "source": "MacRumors"
+      },
+      {
+        "title": "Exynos 2600 Was Born Out Of Sheer Necessity And Wouldn\u2019t Have Entered Mass Production If Samsung\u2019s Mistakes Not Cost It $3 Billion Last Year - Wccftech",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXkwWV9nQ3BqemJOY01DNllXMG9uN0tjMmo3REdyZmZSSDA2MTZkSVRBZDQ1VHBsc0xiQW1GVnVLenhUQndYVW1GV3NYeGJtLXhCdHJ6MWdoWjljREJWWGVqYmhYNl9QQzVpRVZwRG02amwwdzc3V21hbGNFcFlSb3RnV200T2YwNG1YYkdrRdIBlAFBVV95cUxQN0JVd1ZwdTY0ZUY5OXNpSXJ2WjBZTFloUldsZWtoU05zZ0FPN1hBeG81Sm1jTFFKcGo3cG1ST2tHR1RaTFFYTEdZQXAyQ1lUWmlEQ3pXaXZDVHI5RmFjbFZYalhBSG1sdTJiLTRmZk9yWFA4Q1o3aERhckoxWTlROG1mVzBOclFvSlIzVzdQVVdtOHdX?oc=5",
+        "source": "Wccftech"
+      },
+      {
+        "title": "This new Android app could be a lifesaver for sleepy commuters - Android Authority",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVEZ5M0RrelJZWXdvR1ZobjNiVTRHNWw1aF9BaGdWTzdVR0ZPWi1RNWNPc1ZhSUhsdF9fNWo4NW9oNHE0Si10bHA0SW81SG82ZHcxb0pndWxULVhMNGxyNGFYZXl6MWJrdXNvSVh0cnducG5SckZBdUV2a05OVThqZ3NKR3FJOVFOY1p3MWhaMHpPMS1OMU00?oc=5",
+        "source": "Android Authority"
+      }
+    ]
+  },
+  "guitarExercise": "15-minute modern-fusion workout in D minor: triad pairs (Dm/Eb), legato across 3NPS shapes at 92 BPM, then one expressive take focused on dynamics and space.",
+  "codingPrompt": "Design a principal-level multi-tenant agent orchestration platform with deterministic replay across model upgrades, policy-gated approvals, budget controls, and full auditability. Include architecture, consistency model, migration strategy, and SLOs.",
+  "quote": {
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Will Durant"
+  },
+  "audio": {
+    "src": "./brief-podcast.mp3",
+    "maxMinutes": 6
+  }
+}
