@@ -1,0 +1,9 @@
+{
+  "date": "2026-04-18",
+  "status": "ready",
+  "generatedBy": "deterministic-pipeline",
+  "sha256": {
+    "index.html": "4f64f7d0480c6d5554be4739dda41b7e8895efb3ce1bb21d41463f17b4814605",
+    "brief-podcast.mp3": "737800a339c95d2737bad4e40246096fbe5a531d8546019bd48b5ef79473dfb4"
+  }
+}
