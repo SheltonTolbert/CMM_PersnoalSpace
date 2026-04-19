@@ -1,0 +1,22 @@
+Good morning Shelton. It's Sunday, April 19th, 2026. Here is your daily brief for Reno, Nevada.
+Weather first: Reno, NV: Partly cloudy, high near 55°F, low around 40°F, winds around 11 mph.
+Top local news:
+Dry, warm conditions round out the weekend in northern Nevada, Lake Tahoe - KRXI
+Nevada golf course reopens, second nine to open soon - MSN
+Free community health event was held in Reno - 2news.com
+Top national news:
+Iran doubles down on closing Strait of Hormuz as ceasefire nears expiration - Politico
+Scoop: Trump convenes Iran situation room meeting amid renewed Hormuz crisis - Axios
+Battleground Republicans are starting to worry about the Senate - Politico
+Top global news:
+A mass shooting in Ukraine's capital leaves 6 dead before police shot and killed the gunman - NPR
+North Korea fires ballistic missiles again, flexing muscle amid Iran war - CNBC
+In Angola, love for an American pope but not for an American president - The Washington Post
+Top tech news:
+The App Store is booming again, and AI may be why - TechCrunch
+Pixel Laptop: Return of Google Pixelbook laptops spotted in new OS release - Notebookcheck
+Huawei Pura X Max live images leaked ahead of April 20 launch - Huawei Central
+Guitar exercise for today: 20-minute modern fusion workout in E Dorian: 5 minutes alternate-picked 3NPS shapes at 92-112 BPM, 7 minutes triad-pair phrasing (Em/G and A/C) over i-IV vamp, 8 minutes motif development with rhythmic displacement and intentional rests.
+Principal level coding problem: Design a principal-level control plane for autonomous AI agents with deterministic replay, tenant-scoped policy sandboxes, and cost-aware scheduling. Define event contracts, failure domains, observability SLOs, and a zero-downtime migration from single-region active/passive to multi-region active/active.
+Quote of the day: Quality is never an accident; it is always the result of intelligent effort. by John Ruskin.
+That wraps today's brief. Have a strong Sunday and let's ship one meaningful outcome.
