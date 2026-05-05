@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-05",
+  "location": "Reno, NV",
+  "weather": "Reno, NV: Cool clear morning near 48\u00b0F, afternoon high around 71\u00b0F, light west breeze, dry conditions.",
+  "sections": {
+    "local": [
+      {
+        "title": "Unconfirmed reports of potential lightning-sparked fires in west Reno | Fire Watch | 2news.com - KTVN",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeW16UVk0NlJTN2FWQUNXcnNRYjR2X3RqMWY2QmdaRWJTRTl1STAteGNkd1RXZUxaRnUtYWgtLXdrdnlfQXhaNkxEMWtoUVMxWVJhVkRwMUZMY0JvMFZESW1nM19DalF6enRMZElNWXJBcDhWczZPLVIwM1BiNWhwYzlXRkgtbWdUUEdqV0FJeWJCZlNjNnlFQ3FZd3BIRHpibjA4eEhscmJHcUs5MmdKWXRLLUF4X053MmJWMWppUi1hdU96ZXlTNVBUTUk1aFBLS0NUbWsybXZqbUQ5bjZqTjZIQ3RBUQ?oc=5",
+        "source": "KTVN"
+      },
+      {
+        "title": "OPINION: Data centers will not destroy Reno - The Nevada Independent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzBQV0lxUzljX2VmRDFuLVJPMTVKUldvaFVfb0pZYVVsQXNrZWtIZkxVdC1hd3U2NjdremxkallXUlN5RlJOa2V4SmdMaFRTc0pzQ2VmVHNRQnJaOWNyWncwaVJ1MVFud2NRVXBGTkhyY19HNXVUdEp6X19WTjBlMDNPTHdTOXhVcVR3?oc=5",
+        "source": "The Nevada Independent"
+      },
+      {
+        "title": "Lightning strike hits gas line, sparks fire on Rimfire Circle - mynews4.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmY0SEZoYXBRMTM3QVVzd2RiWm1iOE9hLVdhbmJaZ1pyU1FEYzJsYmJPM0RERzc2RW9DS0RDWTd5S0xIb2lOaFJicFhuSTFRczNJNVZnNUU1MWV1YTZSNjB5bkNGc2NjeU91bGFMaU9kMjEtMzRSWEtKTUE0SDR4S1JtUFlQSUh1OVVLcjFuZHdxZG9hUHc?oc=5",
+        "source": "mynews4.com"
+      }
+    ],
+    "national": [
+      {
+        "title": "What we know about Trump's 'Project Freedom' in Strait of Hormuz - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jc3I0M0RoNFhmeDVJRWlHZEtON2RDVzVsbVo5MkNKV29qRDAtMVd5Q0VMX2t3RllkOU5NSW53a3h5MFNVWXRXdmZ5UGJiVHhOWGhaUjFQSHlnUQ?oc=5",
+        "source": "BBC"
+      },
+      {
+        "title": "Live Results: Indiana state primaries - PBS",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNUM3UkRrWWNQaUpHSTJuVUpLWF9IZ2Q3a3U3WElhVkdyRExNT0FENVRNdDJpbFlyY1FURVZ4QlZhMXRGaVZQNUkxYUtpaDJycGIzQmZfYlgwQmFEUUM5cEtUU2w0Smp0dzV5eHhaN3BVNnFZQXg2Y3dBSEVCQ2_SAYQBQVVfeXFMUFVGcGFoNHFtU1RrSG9FNE1LQUZRcDVsSlZxMXREZzBsU3FNakM1SHhwS2xsQjBMc1VYbXZrellTOEVMcWlIUXk4UGFKRng4YXk1d3VjWDNOLTZGY0kwbGc5THdGUU5halI1Qkp6UFVRMGtVTUstZG1ILUlkT2h6dGVab0p6?oc=5",
+        "source": "PBS"
+      },
+      {
+        "title": "Man accused of starting Palisades fire was \u2018angry, intense, driving erratically\u2019, lawyers say - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXktZ09lRXlOTG0yQ3Q2UGNWbEpyMXNKcW5zWVZKYjVMTVRMVFRJYlVqZGpCQkxWSGpwbFZaOVF6UVN2eE1HX1hKaGJ2M1JVSDluS3RVZlJyWXpMeURuaHhqdnFJeWstTUJEZ0JCbl9XaHd4RE4zLVZ2cEpMMnNNc1Y0LUZ0VUpsMFVDdmxZSlNTdw?oc=5",
+        "source": "The Guardian"
+      }
+    ],
+    "global": [
+      {
+        "title": "Oil Edges Lower Following Spike With Hormuz Stalemate in Focus - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3ExQXNiZU5DcnlhRDdIeXRNZDRlMXBkVVF1dnVnYjFpRHZOYlZwYVlKUlBxVHNNOHN6a0k1N3R1S1h3S1hMbXlRcVBUZmpYQXk4OV9YQnNSOHVZdzNPb0lXVGN3NGlCNlpWbE9JQkFfcVJ6aHZzcTgwMUVLMFBZSkpyeC0xUlI4N0tDeTFOR3Y2Z3dXSkhUYzNMZkM?oc=5",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "Human-to-human transmission suspected on board hantavirus cruise ship, WHO says - CNN",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMUh4bEtiS0FhWE5ubTMyQVpmUk5tNVl6dldoM0sxUnc5QkdHcmlHMzVNRUt5LVRYM2J4UnlSMk82Y1lrNldtOC13dDZaWU1LVVNQeE1lWW80dzNBX2RTR25MaVBLVnNqQTNoZFRwWTVBYlNnR1BPVw?oc=5",
+        "source": "CNN"
+      },
+      {
+        "title": "An explosion at a fireworks plant in China kills at least 26 people and injures dozens of others - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaVl1SEFmM09XU3I4ZTRnWVBycjNpaWF1YVZFbFBra096bm9MSk05RElRQV9yVHBqMnJSRlFxbHF0UjQ5bW1KR2Z5OWZNUFBoOVJFLXpmSmRtUmM2YUJFN3hTelIyNkdHdWZfN2I0M2NhOFhYenFWYmRMT3lkOURWWWgwZDNrUDVmVXFXLUVtRVBVZlVSQVFpaEp6dEhHZFByRUE?oc=5",
+        "source": "AP News"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Bose debuts a new home audio collection - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ1JWem9UUmdSeG9faXZxVHdmWXpySHJBU21QQjF1OGtxcV9ZQmZBcmJVRkZzQ1hfdnNDQ19lbGRONHpvaTZral9BWHM5WG5OVUdDSHdPZ25hY2FMUWRBYU5vUjZVa2dGLUhnZDJyT3ZPM2Rzb3lGaTd1RXhINnozSA?oc=5",
+        "source": "The Verge"
+      },
+      {
+        "title": "Leaker suggests seven new features coming to iPhone 20 \u2013 but read with care - 9to5Mac",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjBEYmhvWFo5SnhSbXZkVzdjbS1aRDRlTWtteDduUE1WSjd2S0Z3T2RMdDE4R3lHWnJmdlJ3UDc2dWx4cG93UjU2ZFIxNjJBdDI2YVdKNHlhS1I1ZGJZM2pycElETXVwWFpYT2RWakVObGE1T3UzaHdjbWJLRWxsYVhxRi10ZU1MX0JqRWZRWXVIZGU0a3hvV2lVMTMyNk9MVGU5SUxKWlI?oc=5",
+        "source": "9to5Mac"
+      },
+      {
+        "title": "Why Reddit blocked my daily visit to its mobile website - Ars Technica",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEpCaW5tTHM0RTFhMmlxZU5XNFotMEFBUzVEc21ybXhpbkFDM1ZjM3c2Zkp3djh0N3o1QmdEVFdSV2Y3WHlpMGpvanluNzlfNC1lYjB3V2JPQ1ZCdWZWMTdXbnFTTUJXaWxBblFBd2FMTUctdXRaRzE5eF9nVnRzOWlsWTljdmJYdWw0T2RLZXBTS3FuWnlnellMdU9RS3JaenRPRkQ4TXpBMS1meDJiLQ?oc=5",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  "guitarExercise": "15-minute phrasing drill in A Dorian: 5 min 3-notes-per-string alternate picking at 90\u2192108 BPM, 5 min hybrid-picking chord tones over Am9\u2013D13, 5 min motif development with rhythmic displacement and clean muting.",
+  "codingPrompt": "Design a principal-level deterministic multi-region workflow orchestration platform for AI agents with exactly-once side effects, replay-safe execution, policy-gated approvals, tenant isolation, and budget guardrails. Define architecture, consistency model, invariants, SLOs, observability, and disaster recovery.",
+  "quote": {
+    "text": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  "audio": {
+    "src": "./brief-podcast.mp3",
+    "maxMinutes": 6
+  }
+}
