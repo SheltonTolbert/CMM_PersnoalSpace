@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-17",
+  "location": "Reno, NV",
+  "weather": "Reno, NV: Clear early around 52\u00b0F, afternoon high near 78\u00b0F, light breeze, dry conditions through evening.",
+  "sections": {
+    "local": [
+      {
+        "title": "Gamer\u2019s paradise meets local\u2019s bar: Reno\u2019s The Glass Die - This Is Reno",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92OVdKSjI4TWdfLVFRcGV3RWoxODJBbHFES0MxTFg1YVg2VVAtTW5OTGc1Zi1CSlFUV01OZTBrMDVMekZONG1xVU94aWgwajFyOXZTdDZoZ3BNam9Kdm5xTzlYaURzN2RTSEFpOHJ3?oc=5",
+        "source": "This Is Reno"
+      },
+      {
+        "title": "This Nevada city is the first to pause new data centers - Las Vegas Review-Journal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWYzakd6djI0Nk1HdTlpNVgwUjd1S05kZUhvYXZSdjRZZmUydmRyUUJGaThoLTFwWF82VGZ0bHZQbXk5OGkxWGFHMFJJdjVrelRZZTl2SkdtZzBoREhzUC1tTldzVlZIbmN2WDBrZ21ZV0FtdDA3RmFoYnlKclNVV0JJVVJMTTlkOGVlSUdZVzVNTnhkSEJObUZsYVY3SXRMUll1OTJwc0tkeVp3Mmg5aw?oc=5",
+        "source": "Las Vegas Review-Journal"
+      },
+      {
+        "title": "Reno Aces vs Sacramento River Cats | May 26-31 | Reno Tahoe - Visit Reno Tahoe",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmstaUtxYXRFaldRR2otMVVJQ1hKcUF0cTlBM3BjUnlLYUtsM0l2S3VTUU1PSVVxMzVrRkZUUHloYmdES0RJVHdYWXVfcy1PQjFvQ1FacmdYUHdPVkdyVE9aVGRyWUg2c3RIZGxVNHlxZ3RQRHFwVVZIdFpDWXc0SUhwXzZUa2FvTzBsZ2oyYVpyYlNrOUh1dGc0bUlxUVcyOWRNakJTN0ZTaVZUaFJZ?oc=5",
+        "source": "Visit Reno Tahoe"
+      }
+    ],
+    "national": [
+      {
+        "title": "Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXJ3ZkVVWEtxZXNBVGZNY013TVBaY283N21aNnA3VnlOQ0JfTnQ3aXhQaVpxRVhqTFJCaHI2Y3BQWFFiYlFTcHlIMGdNaTFZcEl4NEh4ZEl2cTVkRFhxcHU3TVVzZEFGNTI2UktucWZMQ3ZkYXRZT0pyTi1HUGJMZEJwb3d1Z1E?oc=5",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Hundreds of millions of dollars for Trump\u2019s ballroom ruled out of order in Senate - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR2I1REdiOWctSm9ONkVtMVNBLUhsYjU1blA1ME5RWC1Qc2xDTkt4MXdOSDJMVjIzSjFON2RtQTNCVGltZjZIeEVHZDRONWF0TlI4Zkk1VVoxUVNZZFpybnNRVUtnVGc2czZ6cEJYck9hc2Exam5OV2lJekVvX1IzMXU5d2N0MEhjaWxLeFVZdzc2cTQxajBxb3BTUEcwc1d4U0c0ZS1ZVlFBcE8z?oc=5",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "A \u2018Revival\u2019 on the National Mall: White House Puts Prayer at Center of Washington - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMS1rQy00N0M3aC1tVVhORDI4YTBmZnlkTFZtaTFjRDdsaDY5TnAzNElpVHZ5ZWlia1h0MFhaWTJmYkVzLXhoMDcwSjNPUjk4T3k4WGtLck1JNUF3TWJGTzlwVW9KVDBlekJOclIwWnd2V0pZRENUTGs5VUxzeVdkNFloM0t1UVRDX3NvNy1IZVoxeWVqdnN0NFljUTJCTGhLSFFCVi1RU3FFS1pETXhld08tUjNwXzBRSWFYbTJjWkI?oc=5",
+        "source": "WSJ"
+      }
+    ],
+    "global": [
+      {
+        "title": "Ukrainian drone strikes on Russia kill 4 and wound 12 others, while debris lands on a Moscow airport - AP News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXlmX1k4LTM3YmxmVHBUSVpQTzBuaVJBSWxDdWlpWGJianNEbnl6ekQtMktpSkRuMEJFQ1JLNlBJaUVYOUJTTXd2VG1oR1dEZDI2VVlXbm9hNkZMMUo1aXBZVTZCaExDRWxJRld0dUZxdFJ4enJJVkJsSy16TXFwdDRsR2lyUUVsQ2I5N1dmNGppazBJRjlKbWVXWFdMSDVJYUxlVWl4dHlRekNQTkE?oc=5",
+        "source": "AP News"
+      },
+      {
+        "title": "Man ploughs car into crowd in Italy before trying to stab them - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMkZjNUNXWC1SY1NQdmhocUdnanJYZjdEbVctNjRPX1FXckU3VWRlcUpUb2oxRUZOSFJZSVhGa2ZIWFVoRFJMY1lsTTAtQ3VMTXc0akI2X19qQQ?oc=5",
+        "source": "BBC"
+      },
+      {
+        "title": "Drone strike sparks fire on perimeter of UAE\u2019s nuclear power plant, shaking Iran war ceasefire - The Boston Globe",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVBpSVk1dXI1eXhRNEVCV3pHcEZHOUl0YTMxbnVnVDR0bFhiYnRuVWg3R1FNZnpPNjVWWXp5LVN5dzB0ZHZEVExiNW0yTVNoejl0dElaU25aTnRnYmJxUTdudFAwNE0wTlg5VE1BNUNOODF2VkFJNG1kdW5tcmtSQnlIMldHU0EzLWwxdVdyOVNUWWZBWlE2MkRlUWFkVFlBVUh3dm1acldvYUhuVXhQMw?oc=5",
+        "source": "The Boston Globe"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Users turn to jailbreaking their older Kindles as Amazon ends support - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1ZzUGVJclhZdHhRaGU2bjBWU09NZGJNdmVNN1FubUZodGV3TlBDVHhrWTFaNUxQX1hZRmpYRmlHbG9pbnZVeHhkSkI1X1JqUHNXMU10aU1vaEU5YllPUm9BRzZpZTctdG1IZHRxbVZrdThRbGYxVVpPVFk0NHJuOUp0MHhqemdwMFRqM09wT1N1UUZEYnhDeXBncmVSM3FJcXo0VG51Yw?oc=5",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A measles outbreak crossed into Mexico from Texas. A larger tragedy followed - CNN",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaG5xcFBndnE3QnpSOUZ5eUFCa01YOE1yb2tPWXREbVpXb0IyRjlkamh3TFhPYjZCYzJQYi1xdzA0U0R3bkdxZnNVYnRQaVE2OTdMY3JYalo3ZkFVY1h5cGV0YVVkMTNnRmRPUU1veFN1cUs4QXd1bENBX1R1ZkVfVEFrMWFucUk?oc=5",
+        "source": "CNN"
+      },
+      {
+        "title": "Apple's Heaviest iPhone in Years Is Getting Heavier on Purpose - Gizchina.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTZSbUloZC1qcXAxWWZkb2I0SnN4aDJXV0hVeTY5ejBTNUlteF9IU0xfNWRmb3JqU3NmM0FXZ29sd3JuT0gxVUozaXJubGVaSlh1WEFocXZrdkZBQkdCOTVhZmw4WFdnb2lWSldjUC0yQkFfWnJOd1pxa0w1ZWh0dTJ4THJBWVo1U3FXOE0wLUZYU1BIcV84?oc=5",
+        "source": "Gizchina.com"
+      }
+    ]
+  },
+  "guitarExercise": "15-minute exercise: E minor three-notes-per-string alternate-picking ladder at 92-112 BPM for 8 minutes, then 7 minutes of chord-tone targeting over Em9-A13 using hybrid picking and strict muting.",
+  "codingPrompt": "Principal-level problem: Design a deterministic, multi-region orchestration control plane for AI agent workflows with replay-safe execution, exactly-once side effects, tenant isolation, and policy-gated approvals. Specify architecture, invariants, consistency model, idempotency strategy, failure domains, SLOs, and migration plan.",
+  "quote": {
+    "text": "Quality is not an act, it is a habit.",
+    "author": "Aristotle"
+  },
+  "audio": {
+    "src": "./brief-podcast.mp3",
+    "maxMinutes": 6
+  }
+}
