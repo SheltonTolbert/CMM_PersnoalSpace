@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-26",
+  "location": "Reno, NV",
+  "weather": "Reno, NV: Clear morning near 52\u00b0F, afternoon high around 80\u00b0F, light breeze, and dry conditions through evening.",
+  "sections": {
+    "local": [
+      {
+        "title": "Structure fire contained in north Reno - KOLO | 8 News Now",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0YURHZWxKYm03c19MRVRwZzJsWm9vdjFxZzZJWEdZWm9qbjZ3Q3ZSNG4xdzNqZEZNRlcxOHRZblZUT1NsZHdmUUVETmFTU1dObFhPX1E4cVdrWVdBTHlaQkpUTWtmbkZjSXdvaENlUmgxbW5sMW1yV3Q2NktPdXPSAZMBQVVfeXFMUDdack83NkIwaHlkcE16Wm5GaHpiSXRzTjlkd3gyTF9naUJSazV5SXJEeFBVQUdVbU96dzhKVWxSVEwtVTlRbGV2dEw2elFhZjBFQlBwendGNkRNamNYSjdjdXlKeEU1WVp6NU55Nk5kRG40SGJjeVlGWTNwN0NFR3hFbXlBVHdieEd3T3FWTmNBZHVz?oc=5",
+        "source": "KOLO | 8 News Now"
+      },
+      {
+        "title": "Meet the 8 Democrats running in Nevada's 2nd Congressional District - The Nevada Independent",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2ZIOVNRZlpfOW4ybk90aThnWTJqNGVERXRHRER0Ql91YmZPRV9UUHlTXzdjandqbG0ya0o2MU9EZmJaNVYxNlJKaDVHd2d2QlB1cGp4aWwtNnh3eWlWSkEtSVNaNE5VeHlRb21iOXRMSWhFeTMwU3dVTURJN3U5MFlyUTAyMVVnRmtCcGRoNzRWdVNnc2VsMTN2azRUNDZ5M01oa2lnWThhWDA?oc=5",
+        "source": "The Nevada Independent"
+      },
+      {
+        "title": "Reno River Festival returns to Idlewild Park for three-day event - This Is Reno",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3VHg1LXBLSjZsTVFHTERfQ2JFUzl0cktiZXNORnMtdDZGd05uVDJ5cE1fblltcE50ZGRGOUFyT2djVjg3a0F2QzF0aXhzdjFGT2txUVphcC1XOU9nelV2MjByT0haNGtB?oc=5",
+        "source": "This Is Reno"
+      }
+    ],
+    "national": [
+      {
+        "title": "A runoff in Texas primary will test Trump\u2019s grip on GOP - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObS10M2UxaDJKWkhlYWdTd3hCbEZJWHVWdHFQOVRjekNFcFFSZnVSMTBqRy1TdG11X3c4cTRuUTVuMy00UTF4eXg0WmI1dDBnM0VfdTl3MlVJdERVZ3ZTTUFxN0x5NUxuQW9BbUVaM3hULVBYRFA4eTZ4Z2R5VmRPR1dWVDVKOV9lOTFHRU1vekRNaXVJa3VUODdFRzdJbkVYblk2VWhqSWN5X2NZ?oc=5",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "Governor Newsom secures Presidential Emergency Declaration approval for Orange County hazmat response - California State Portal | CA.gov",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd0ZjalBrckFlcUQ2bkhsVDlkMlVUbzJDT045QllEd3VOLWJYTkVHY2xVVkZDQkFlUFV3Z2pBdHU3aHdXY0xoMUI5Vzh3TlJQd2c1T3h1VF84SGxQdWxscGNfUUtVU2JoOVNGMGxwakdsdVRvaFFyTXVNcno2TUtpQ2QxemFzX2hwd240Q3pXREJzQmpOSnZTRkdqNE9ZWFplMnEzZDZCLXRwX3NIOXJNWkNlV1F0TVNkRG91Ull2RTVOdktGWEtlY19VU19oOHFqS3c?oc=5",
+        "source": "California State Portal | CA.gov"
+      },
+      {
+        "title": "Trump to undergo annual physical after year of public attention to health issues - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzFGQUQzbzVzU1hGaVAtODJJVkZXM01aNDFMMFhWSFlJaWJ6MTBUa3FvTnZBNVQ5bGNTS2xWVWFzUmc1YnZoaWhQWHllcWtKWHltTzhOWEs1TXNDV05nZHRuS3B4eGRsVndkVG4ySEpkbzYxbGxKU1BuOHhKNGVCSENwUDJkUlJDc3VV?oc=5",
+        "source": "The Guardian"
+      }
+    ],
+    "global": [
+      {
+        "title": "Stock Market Today: Oil Prices Strengthen After Fresh Attacks on Iran \u2014 Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkdkVDZmdENSYi1wYUdEQmlBOTk3V290Y2VTT2pPRzhNTHM1cjBld2RPaTJxZExiRXMtQk1wc3dUazU1a2MwVmNPUDZ3aDEzVWdxemhzdGI4N2hjeklJTU1XeFhLZlp0YUlBMUV0WGhHTHNIOEhZNm91R0laaXpDVk9sd3BVYzA?oc=5",
+        "source": "WSJ"
+      },
+      {
+        "title": "Israel and Hezbollah clash along strategic Lebanese river following overnight strikes - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFI1Tk9ySFJSZ2g0WlZuVnNUaEFNLWZBT1Z4bHdWQ3g2Ql9yOEdYeDNBT3lQZ0YydlJsU1FEN2xHUUlCMWpWTndkVWhaRjcxa2NuRWN4eGgtTnF4ajJRTW1UcFkwRVpPWWEyMnVncXFVd1VuUEN6VllNejZGUVNrajItNnNVSDczVWEwaVJDZ2hXVFBDbEZrRk5jVQ?oc=5",
+        "source": "AP News"
+      },
+      {
+        "title": "Rubio says US-Iran peace deal could take \u2018a few more days\u2019 - politico.eu",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVWllMVUza2hTTEQ5TUo1dkFUa3NZU3ZJTld5TTZ6cWtJV1FZZ0x0WG9PRjJTZXJfdmRRZERkNlN4LUs4WG9Od0NGZV9IemIwdG1xbENEcEN4NmtfVEJaZFU1RGxFbzVOWlVlcEliMU9BeTQyU1JVSU5QeHNpWFEtSFNyRQ?oc=5",
+        "source": "politico.eu"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Sennheiser\u2019s new Momentum 5 headphones have upgraded ANC and a replaceable battery - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzFRUUJZcVRaWFc3NFhtemFXY1NTSElGVVd4MnRTRDNac0dnZ0pkYV8yd3JjVTdWRmszakMyM3pjRzNyMkF0cnFSZkV4cnhsaDJ3MTBINFhpR0hucE51YkhFcWFLdVkxNnlleTI1U2NoLW1xZ0pUSVAzRllVMDhoLWt2b1VqMmJYaF9YUERBVjN4Z0tkMDI2NXJLQVhudWdKZUNB?oc=5",
+        "source": "The Verge"
+      },
+      {
+        "title": "I\u2019m not a fitness buff, but I still can't wait to buy the Fitbit Air - Android Authority",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZzBKZnJZdnBndTdIWmFwR2RQVzJNb0N2MEhQRnY0bW9Pc0NZRHQ2N2pXRy1pbVc1WE1PeTRpaDBsTHRtelNCOEFmLVNzeXZCZVVieFhLTnZlV0VMRTF5RllMaXlsaXlCOFVHZWNJU2gxblNPVjNnZmY3YnBPZHl0V3FLN3VIQmhuWjJXMTlwRXQ?oc=5",
+        "source": "Android Authority"
+      },
+      {
+        "title": "The Virtual OS Museum is a fantastic project that lets you run Mac OS, A/UX, NeXTSTEP, more - 9to5Mac",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTVczZ1lyMWtZczljRU9GR2Q4MW43Y3RhNHVlbS1lSUpSSWc5QXQ3akhFZ05ZVEdMZkRJbW1LQmEwRDJhcTZqWUI0YmxsRUVud1I3ZU5PTE4tTElpUndfS2ZNY25FNjhoRWduOWNlSWxzZVgzQ3pHUzdGeVdURGJRQVNSeHJlbzBiZ1dWN2RscmJRZlk1VEZxSlRNeWJ3elU1SWowS1FjTEhyLWx2eV9ZVXdzX2hLQUpPLW1kTA?oc=5",
+        "source": "9to5Mac"
+      }
+    ]
+  },
+  "guitarExercise": "15-minute exercise: E minor alternate-picking ladder at 96-116 BPM for 8 minutes, then 7 minutes targeting Em9\u2013A13 chord tones with hybrid picking and strict muting.",
+  "codingPrompt": "Principal-level problem: Design a deterministic, multi-region workflow orchestration control plane for AI agents with replay-safe execution, exactly-once side effects, policy-gated approvals, tenant isolation, and cost-aware scheduling. Provide architecture, invariants, consistency model, failure domains, SLOs, and a zero-downtime migration plan.",
+  "quote": {
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Will Durant"
+  },
+  "audio": {
+    "src": "./brief-podcast.mp3",
+    "maxMinutes": 6
+  }
+}
