@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-27",
+  "location": "Reno, NV",
+  "weather": "Reno, NV: Cool clear morning near 50\u00b0F, sunny midday, afternoon high around 78\u00b0F, light west wind, dry evening.",
+  "sections": {
+    "local": [
+      {
+        "title": "Reno-TRI Center commuter rail proposal shelved because of funding, legal issues - This Is Reno",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdE50b1picW1UcGRqN2J3bEJ6dF9jUGVvLWJPczhLblZmdENFbExESHhRQmJhd1pBaWlZdVFuZFdJeWRVMHpETURzdmVaMlQ2UjlmUGFJTDlWVjhsY01MLWwyWEMzTTRpNDNCSVl3?oc=5",
+        "source": "This Is Reno"
+      },
+      {
+        "title": "Reno High alum John Savage leading No. 1 UCLA baseball into playoffs - Reno Gazette Journal",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNREFaTGFUTV9yOVZIZWZhR09POVl4WTREb3pyUDl0MTVxbDVuR1M1UW5kcGF0TlZrZWhKamg0bE5CdnhrS1hxVzlzSm00MVhhVkRfY2o4VnlHdjZYanBPN2J0d0VYUll6R1ZvYXhXX1FSY1U0ekREc05hZGJvODBpZHZDRW5sbm44UUI0R18zX0ZRTW5xNDlFMVJKR0pkZGdza0hzLV9RUWxZNkZtcnM0R1dCOU14VFE2M3ozYlI4cmM3REJlRGpRWUl1OVE?oc=5",
+        "source": "Reno Gazette Journal"
+      },
+      {
+        "title": "People: Chris Roach - Northern Nevada Business Weekly",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxTFFYcnZiZW9Yb1V4WWozeWhjd0ZfYVRfU2pKS2hxbm1ad3l5M2NlbmNZY0FqeVdwNzgtNDB5N2FBMnJDM2kyOW1QYXJmajZpM1d4Ym1VLW5DSDNveWdsdGJwSjJ3Wldx?oc=5",
+        "source": "Northern Nevada Business Weekly"
+      }
+    ],
+    "national": [
+      {
+        "title": "Paxton crushes Cornyn in Senate primary in a big win for MAGA - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObS10M2UxaDJKWkhlYWdTd3hCbEZJWHVWdHFQOVRjekNFcFFSZnVSMTBqRy1TdG11X3c4cTRuUTVuMy00UTF4eXg0WmI1dDBnM0VfdTl3MlVJdERVZ3ZTTUFxN0x5NUxuQW9BbUVaM3hULVBYRFA4eTZ4Z2R5VmRPR1dWVDVKOV9lOTFHRU1vekRNaXVJa3VUODdFRzdJbkVYblk2VWhqSWN5X2NZ?oc=5",
+        "source": "The Washington Post"
+      },
+      {
+        "title": "At least 1 dead, 9 workers missing after chemical tank implosion at Washington state paper mill - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0dYQ3BmVVlyeHY4N1FWNnJfbGsxTzA1OWlrNEVtcm5USEtEX3RQUXhSSm51R3ZDTGZEcldRczRva2Q1X1VHd1ZDa0JuRzBkdXpBcUI5ajJqa2UtcHV6bExwakR2Zk9rWFJNMXhLSTFvNXhVRFNqX2k5djRvaDQyT3hJV3JobWgtRkHSAY8BQVVfeXFMTVQ5SkdOMHpvbng2Q0NEa3plWVJIVXRGSG13OFVZLXRuUE1PTTl6SC1zdVh4ZU1NZEhRVlNYWnJoYy1HM3VNNVdMa01Bd0xLaVU0dEFXWTBfUmNvaDl3aHhCY2t0enA5X2ppaGRXVGxKck5ocWlYcEwtcDQxTFlrdkVlMURfOS11aFp0T2toVkk?oc=5",
+        "source": "CBS News"
+      },
+      {
+        "title": "Evacuation Orders Lifted as Southern California Chemical Tank Cools - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWV96bU1VTzNWTU1ENEpMZXdVcVZDWTlDMmdVNGtpd3VZOXdYXzhKTGI1eXB6dzE4RFhmZ0dEaFlsdzZsZ1hoSHd1a251U1BaeEFwT0NQMDdEeFlNV2txSnNhcVFVT1p4WDFhNExlVXJCR3hhLXRieW1tSWUxVDcxaGpkd0Z6Tk9w?oc=5",
+        "source": "The New York Times"
+      }
+    ],
+    "global": [
+      {
+        "title": "Hormuz Flows May Return to Normal Within Month of Deal: Iran TV - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVRBWF81emRZUC1xb0tjVElLbHhTN2NycHJkN3lSMW52WXh2TDRaUGp3WlRtOXpkcW1iMjBDSWs4V3hlTHVhdjN6MTB6WDlRM2dnYmZIRDluRnZoQVp6NlpsTVlzSDlzNjFpNFRMUFo0Z1VCd3VTMVR5Y1NmQzF4OTdCYkhIckgtdU41X2lLd3cwdkM2T1JuMl8wcXdWZVVtU2NiaWMzWGQ2RldPZ2RCNWFFVQ?oc=5",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEZJdk12ek92NkdMSktFN3VpdUJwZzJvaUVnX2pybnIwNHR6bjJjUnZjNVlhRUplV01UVXRmQ3pkRFF1MU1uaWtweGhEWDBxbGluT3dQbkhta09xX3FQUnpsejRKZTdWNnk5SjhDbTR6RmZFMjlzVUNaS1czeE11TmhZYWkyVC1Bcy1rU2pxTWdHZXpGTEo4SFBB?oc=5",
+        "source": "AP News"
+      },
+      {
+        "title": "Israel says strike killed new chief of Hamas armed wing in Gaza - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbW5oOGtVQlNtSld6dTRPbTYzTER2NklBZXFKaHIzdmgwUV9JbHAzS0FzclhNNjFuelJ1cGNJTDFlWVdUTGhObmVsRUNXSDdRRVF6aWQzN3R5cDZYWFZld2owWEZMbk5xZ01HQ0NnT1hzbWJQU0J4MldpaE1LZnM3ZVp4bGx0MFg0cV9HdDJld1JJRm1CY0hMbHBSUGY?oc=5",
+        "source": "CBS News"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Xreal Launches A Cheaper AR Glasses Brand, Starting With The $299 a01 - Engadget",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fTzBocENLcmVwLUpiMmhtRF9fWmlWbW1zbF9ydGF0QjVwc0l2SmdncEtMemlCdDdtODNWS0lsY0xZd2NCc0ZtU2dnMW1Pd0wxcUhQNlpvZHBTM2xTMmt0ZlRuc2JpTUdsQVNwOGdDaUtlVUw4RXJ3?oc=5",
+        "source": "Engadget"
+      },
+      {
+        "title": "The new Razr Ultra isn\u2019t your average phone \u2014 for better and worse - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUVEMEh2YjE4ZEFETVhkYXlfVXFXSG5lN283bmNNOGp4eGZYWHFHLXRYQ0N5enF5el8zSWxuVVRXNnNHY2FVMjBRcEY4UWRUY25nV29TMWJMYjN1c21lUnZRMWpjOWRMQzZpdDU4bW5uN2RhUGRncHJxVjU1NnhfVl9ZQ2lMOGpXZUZZ?oc=5",
+        "source": "The Verge"
+      },
+      {
+        "title": "New Witcher 3 Expansion Revealed: \"Songs of the Past\" Continues Geralt's Story More Than A Decade On - Digital Foundry",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRmlmVS1ielFPalVJLTNLbHVMQ3JnaF9Ed2FXU1kyS1ZBWUlockVNTEI5SGQ2SkdBTS0wWWdQNWtPOFlyU2JJTmRSNlE0QXBFTHBISXpTOWItLVlMWU9nS213Mk92WEN2WHVScV9kV0ZhNHZvanMxX2xOeWkwT1FZY0k0TUtfSFBlY2V0aUR6bkxhUWtfeUZsOVljTVR6S0cxdURtTVRyOXpMQk9LX0Z3SDZXQlBxRTFuUWpxSnBVN3NBemRqWlFpWWZmZFpYTFE3eWdOaDVlYw?oc=5",
+        "source": "Digital Foundry"
+      }
+    ]
+  },
+  "guitarExercise": "15-minute exercise: A minor pentatonic sequencing in 16th-notes at 92-112 BPM for 8 minutes, then 7 minutes on smooth position shifts connecting Am7 arpeggio tones across the neck with strict timing.",
+  "codingPrompt": "Principal-level problem: Design a deterministic incident-response and rollback orchestration system for distributed AI production workloads that guarantees replay-safe execution, policy approvals, auditable state transitions, and bounded blast radius. Specify architecture, invariants, consistency semantics, failure handling, SLOs, and migration plan.",
+  "quote": {
+    "text": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  "audio": {
+    "src": "./brief-podcast.mp3",
+    "maxMinutes": 6
+  }
+}
