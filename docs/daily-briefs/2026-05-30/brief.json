@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-30",
+  "location": "Reno, NV",
+  "weather": "Reno, NV forecast: cool early morning around 52\u00b0F, sunny and dry through the day, afternoon high near 79\u00b0F, light winds, clear evening.",
+  "sections": {
+    "local": [
+      {
+        "title": "Reno council to consider downtown land sale, regional housing governance changes - This Is Reno",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQZzRzM3Zwd2w5MnBYSkdPc1U4ZmJwbVFNc3ZIZU9jc0hIMUt6aTViY0VjVXRJWVJOM0hFSjF6RmczcGZMeG9IVC0wRjlVTENVdk03TEpmbEs2OXFIanZrTUdSR243a0tC?oc=5",
+        "source": "This Is Reno"
+      },
+      {
+        "title": "Patrick Joseph Folkins, Jr. Obituary - Reno Gazette Journal",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UelRCakU4bHFWVEtOQ1RuMVN4cE5fVWZCd2FTdnFfQl8tc0tDWHd6aUpiNGRwUWVvcnRlT1Y0d0dDcUpTWTBiSU14UkNmYmpZaGxQZA?oc=5",
+        "source": "Reno Gazette Journal"
+      },
+      {
+        "title": "After freak injury, Tyler Locklear rehabbing in Reno in effort to return to Diamondbacks - Nevada Sports Net",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjQ5LXJQc044UGotRzR6UjFXZXQ2NEJrRXFVZTA3YTFHZGk1Z2RDWW1VdW9tNkU1V0VFcUpSY2FZWlk3bFJHTnR4UXNoUUJtTXBHLUZOV0F5U3N5UEtGS2MyM19Dd08wTzJncmRiOHV0WTFxby1DeEY0Sm1vWm1ob3h6akVHNGJNTW1hdERMaWNYV2xzTUYyTXZxZ0phOEdUa3pteWdaOG9Sa1NWMnk0UFBUQ1BVd3lqbEZFTTNyRXlfbERhdnJfTXN3?oc=5",
+        "source": "Nevada Sports Net"
+      }
+    ],
+    "national": [
+      {
+        "title": "White House releases memo describing results of Trump\u2019s health checkup - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11eDh3UHk4dmVPNHY2N3ZLYlFUeEF0QjJ6QUM1WTZYakZzQ1AxSUV3R1NqY2tNU21sUGVTa2UzeEV5Tjk1cXpqVTE4WTQtdHc4eHlyNzlKMWRvR0diMHZIdGoxRXBiTWVfalNDeDJ2MHFVRFF4eTZnZllqS0ROZE0?oc=5",
+        "source": "The Guardian"
+      },
+      {
+        "title": "DHS says it's 'drawing up plans' to ban international arrivals at SFO - SFGATE",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9pRUxTXzlDX3kxNjNXZXVHYlllX185aG5uR1NCMnh4V1pZd3RueDlOeHQyakNmNVBkWTgwMUJCd0J3elRFdkxpMjJMbHdDcElSSkxCeWNqaWh3Vjl5RDNFR1Y1ZFpraFBjREpXa2tKVW4yeGNnU0N3amtzMm9MQWQzWU1JOFFJc09LdQ?oc=5",
+        "source": "SFGATE"
+      },
+      {
+        "title": "5 Takeaways From a Kennedy Center Ruling That Angered Trump - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLW9UaVlxeW40em5vcWdHUmRpdG5HQlk4OWRLbEVSZndrbWFrdW9QUVZSRkthRzB3QmRZSVg3SUYxWUZRYTItaHJkZEQ4czZLYmhaOE5sUmxrUFNsWW40UWJvRzJRdjRwZ3U1Q3BaekRaMFZGM3dXeDdjMzdkR0Fyd1RucVFfU3c?oc=5",
+        "source": "The New York Times"
+      }
+    ],
+    "global": [
+      {
+        "title": "Four more men freed from flooded Laos cave in hazardous rescue mission - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUhOQ3hpWk9XdHpsX0pSWmVhanVvRlBGRV9OcjhDSEJlYmV0STd2SWRwRXJMcFdsSExCOXFvVEUwdnRvYlhiYlQ0enNaUmlER3Fpb0hWSnVUQXB4ZF8xN0c1S18tc3NsMWpRQk1FemVIRHhDeFJrYVZFcWdRSU5Yd202VHJHRFhYbHkxVDdpMDJITjAzZnhYYWdsb09KWVlVYVFRd1pFelZweGZ2dGdwZWFkLXVGeEU?oc=5",
+        "source": "The Guardian"
+      },
+      {
+        "title": "China is 'losing a chance' by not being at the Shangri-La Dialogue: German defense chief - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVUg1MWUzZW91UHBxYUx4bnRaQ1NyMUw4NlI3dEpWYmY1YWpwZDFoX0otMFotTGNGWklSenJBa1d0MEpMUTh1enZfZGJxSVU1cV9VNHEwMWRvXzBib0pWWDJnaTdKODlfSzl2dHVQMGcxQXA1SGF0d2N1akh0R1ZyMDl5NkVkYm9LTml4Vzd6NWrSAZYBQVVfeXFMT2V1QWpUeS13cnFYS1IyUzMzeVB6enZ5Q2ZQbGwtNVdCcnRWTmN4cUlQSEsteE5peDFydVYzS3VfV0Ywb3ZneHcwd3daXzZxa2VEbFJzUElUV1A0UVdYTHNnMUFsNnNNZGpsdVRZdVc5RG1rRVlwLXo2MDdIMmJDWkk1aUdhbXE1Y3lUU1ZpeWpyUjZoUDV3?oc=5",
+        "source": "CNBC"
+      },
+      {
+        "title": "The Russian Drone That Hit Romania Also Hit European Confidence - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNk83SlhISVlaU2J5RkNYdy14TWFIZG1ac2lNd3BtZTdQa08xdzBMTVVXUV9VdUxWaTlVcW1walh3LWpLWExjaTBHWW9kWG96eHd3aWlEeVZUeE5UWk0yQ1NBNEx4NHZKbVFMLXdtXzhVc3ZFdlZjZHNMVU90RWgzZUsxOERqUQ?oc=5",
+        "source": "The New York Times"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Acer\u2019s launching a Linux handheld for streaming your PC games - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQ2l6QWcxWjZVOG5TR09SVU5jY00yb0l1QWZ6R2p5TG54VU5QSHk5c2QzcmdXS1RUSEV4ZGxfeV9aNURKQmtZSkhfSUh4UE1kLXdXTnUwQXQ5aFVXVUFhUjUtRUVFYkRjM2RLcFhfeXNnTDlQY19WTDUzZ0EwUWs?oc=5",
+        "source": "The Verge"
+      },
+      {
+        "title": "I Don't Care About iOS 27's AI Tricks. Give Me These 3 Useful iPhone Features Instead - CNET",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDB1MzFnZm1vSTZsQ2ZubC1RN0VSZDhKbkVENEZTMExacG5sRkFOZklEZUg1ejNMUlZKaFUxTXVZM2J0SjRzeE0xTDRFN2REZnFkT2lXd0tudW0wOVV1SnROaXVaZmQxc2dOemRLTGQzVXRTT0dIb3FNUzh1MVBYc3Y2YTZOUjMzd3JnSXRfbzFJYlA3RG9ZZDZxdGQ0REVsUGh6Z1QtRUJabXhvd1lmWmhsUWwyN3V4TjNoX0gwZmFGeUROLVYxTTR6WQ?oc=5",
+        "source": "CNET"
+      },
+      {
+        "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul - MacRumors",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tUTFvVU1Qc0hzaFlxQlZwNlB5STR4ekhnYUF4bm5tV1JkbVZmYVBRU0JJbWd6NGlxVzdKTTNKMVFXTGllWVZvdjZVSlRBOEZfb0R5WnBkN1RHX3dyTHBZcF9DYUlIZ2ZYUW1QeC13?oc=5",
+        "source": "MacRumors"
+      }
+    ]
+  },
+  "guitarExercise": "15-minute exercise: 5 minutes of chromatic 1-2-3-4 alternate picking at 100-120 BPM, then 10 minutes outlining ii\u2013V\u2013I in G major across the neck with guide tones and clean position shifts.",
+  "codingPrompt": "Principal-level coding problem: Design a deterministic event-sourced deployment orchestrator for thousands of microservices across multi-region Kubernetes clusters with exactly-once rollout actions, policy-gated approvals, blast-radius controls, rollback guarantees, and cost-aware scheduling. Provide architecture, invariants, data model, failure handling, SLOs, and migration strategy.",
+  "quote": {
+    "text": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  "audio": {
+    "src": "./brief-podcast.mp3",
+    "maxMinutes": 6
+  }
+}
