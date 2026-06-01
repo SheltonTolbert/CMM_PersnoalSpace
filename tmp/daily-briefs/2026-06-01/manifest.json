@@ -1,0 +1,8 @@
+{
+  "date": "2026-06-01",
+  "status": "ready",
+  "sha256": {
+    "index.html": "c10a01f7c32f433042e267f5296d889d2d41e876fc6ae40aaca73e8703183c11",
+    "brief-podcast.mp3": "dc60b769d6a375ba94f0ef01f6617b985759c52b6b1406916db180d4898e39e1"
+  }
+}
